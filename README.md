@@ -1,1 +1,1 @@
-![Build](https://github.com/alexscespedes/DotNetCoreCICDAzure/blob/main/.github/workflows/dotnet.yml/badge.svg)
+![Build Status](https://github.com/alexscespedes/DotNetCoreCICDAzure/actions/workflows/dotnet.yml/badge.svg)
