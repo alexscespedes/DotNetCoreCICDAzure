@@ -1,0 +1,5 @@
+AspNetCoreMVC/bin/
+AspNetCoreMVC/obj/
+
+AspNetCoreMVC.Tests/bin/
+AspNetCoreMVC.Tests/obj/
